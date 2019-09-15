@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="default_price">$0.00</string>
+    <string name="scan">Send to server!</string>
+    <string name="scan_a_barcode_to_begin">Scan a barcode to begin!</string>
+    <string name="def_price">$0.00</string>
+    <string name="success">Success!</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="edition">Edition</string>
+    <string name="vibration">Vibration</string>
+    <string name="camera">Camera</string>
+</resources>
